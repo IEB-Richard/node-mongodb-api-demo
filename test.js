@@ -1,5 +1,5 @@
 console.log("hello git!");
 
-function(){
-  console.log('hello world');
-}();
+function hellWorld(){
+  console.log('Hello world');
+}
